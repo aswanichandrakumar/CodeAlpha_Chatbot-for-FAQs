@@ -1,0 +1,14 @@
+[
+  {
+      "question": "What is your return policy?",
+      "answer": "You can return items within 30 days of purchase."
+  },
+  {
+      "question": "How do I reset my password?",
+      "answer": "Go to the settings page and click on 'Reset Password'."
+  },
+  {
+      "question": "Where is your store located?",
+      "answer": "Our store is located at 123 Main Street, New York."
+  }
+]
